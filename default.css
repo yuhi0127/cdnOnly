@@ -7,3 +7,5 @@ address,em,i{font-style:none;}
 button,fieldset,select,input{border:0;}
 legend,caption,hr{display:none;}
 table{border-collapse:collapse;border-spacing:0;}
+
+.textHidden{font-size:0px;text-indent:-9999em;overflow:hidden;}
